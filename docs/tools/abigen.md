@@ -134,6 +134,8 @@ type Storage struct {
 ...
 
 ```
+Here's a complete Go program that demonstrates how to interact with the Storage smart contract. [here](https://gist.github.com/joohhnnn/f137bfc2a8a9288543ebef04c17f025a).
+This example demonstrates how to use the generated Go file to interact with the Ethereum smart contract named Storage.
 
 `Storage.go` contains all the bindings required to interact with `Storage.sol` from a Go application.
 
